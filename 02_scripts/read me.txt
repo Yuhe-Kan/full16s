@@ -1,0 +1,11 @@
+The R scripts used to generate the tables and figures in this study are listed below, together with their corresponding table and figure numbers.
+03_basic_stat.R：Table2
+05_rank_abu.R: Fig1A
+06_rarefraction_curve.R: Fig1B
+07_alpha_index.R: Table1
+08_beta_index.R: Fig1C
+09_venn_upset.R: Fig1D
+10_diff.R: Fig2B,3B
+11_taxonomy.R: Fig2A,3A
+12_biomark.R: Fig4
+13_func.R: Fig5, Table3
